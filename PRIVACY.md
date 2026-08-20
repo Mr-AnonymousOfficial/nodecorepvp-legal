@@ -2,7 +2,7 @@
 
 **Effective Date:** August 21, 2026  
 **Provider:** Nodecore Development®  
-**Contact / Support:** [Insert Discord Support Server Link or Email]
+**Contact / Support:**  https://discord.gg/2cBj8y6guq or nodecoredevelopment@gmail.com
 
 ---
 
