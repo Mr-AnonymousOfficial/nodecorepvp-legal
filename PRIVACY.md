@@ -1,7 +1,7 @@
 # Privacy Policy for Nodecore Arena
 
 **Effective Date:** August 21, 2026  
-**Provider:** Nodecore Development®  
+**Provider:** Nodecore Development™  
 **Contact / Support:**  https://discord.gg/2cBj8y6guq or nodecoredevelopment@gmail.com
 
 ---
@@ -32,7 +32,7 @@ We process collected data strictly for the following operational purposes:
 * **Security & Moderation:** Preventing exploits, managing ban lists, and enforcing fair play across platforms.
 * **Maintenance & Optimization:** Analyzing performance logs, database query speeds, and system errors to improve uptime.
 
-> **Data Promise:** Nodecore Development® does **not** sell, rent, or trade your personal data to third parties.
+> **Data Promise:** Nodecore Development™ does **not** sell, rent, or trade your personal data to third parties.
 
 ---
 
