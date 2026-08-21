@@ -1,7 +1,7 @@
 Terms of Service for Nodecore Arena
 Effective Date: August 21, 2026
 
-Provider: Nodecore Development®
+Provider: Nodecore Development™
 
 Contact / Support: https://discord.gg/2cBj8y6guq
 
@@ -32,7 +32,7 @@ We reserve the right to reset, adjust, or revoke in-game progression, inventory 
 5. Service Availability & Modifications
 Nodecore Arena is provided on an "AS IS" and "AS AVAILABLE" basis.
 
-Nodecore Development® makes no guarantees regarding uptime, latency, or uninterrupted access to the Bot or FiveM synchronization services.
+Nodecore Development™ makes no guarantees regarding uptime, latency, or uninterrupted access to the Bot or FiveM synchronization services.
 
 We reserve the right to modify, suspend, or permanently terminate the Service (or any part thereof) at any time without prior notice or liability.
 
@@ -46,7 +46,7 @@ Abuse or exploitation of bot commands and FiveM backend resources.
 Actions deemed harmful to the service, community, or infrastructure.
 
 7. Limitation of Liability
-To the maximum extent permitted by applicable law, Nodecore Development® and its operators shall not be liable for any direct, indirect, incidental, or consequential damages resulting from your use of, or inability to use, the Service, including but not limited to loss of data, virtual items, or server downtime.
+To the maximum extent permitted by applicable law, Nodecore Development™ and its operators shall not be liable for any direct, indirect, incidental, or consequential damages resulting from your use of, or inability to use, the Service, including but not limited to loss of data, virtual items, or server downtime.
 
 8. Changes to Terms
 We reserve the right to update or modify these Terms of Service at any time. Continued use of Nodecore Arena following any changes constitutes acceptance of the revised terms.
